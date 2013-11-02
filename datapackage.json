@@ -1,0 +1,105 @@
+{
+  "name": "hotline-sos-2013-2",
+  "title": "Hotline SOS Démocratie Legislatives 2013.",
+  "homepage": "http://datahub.io/dataset/hotline-sos-democratie2",
+  "description": "Liste des appels effectués par la Hotline SOS Démocratie/Jokkolabs en vue de l'élection législative de 2013.\n Chaque appel fait suite à une demande d'une personne (bip ou SMS).",
+  "readme": "Le fichier CSV ci-joint contient les données brutes de la Hotline SOS Démocratie.\n\n* Chaque ligne correspond à un appel de la hotline.\n* Les demandes d'appels non répondues (ou non saisies) ne sont pas présentes.\n* La liste des sujets avec codes est présente ci-dessous.\n* Les codes des localité correspondent à la BDD présente sur OpenData.ml.\n* Les numéros ne sont pas présents pour des raisons de confidentialité.",
+  "download_url": "https://raw.github.com/opendatamali/sos_hotline_data2/master/hotline_data.csv",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "keywords": [ "Hotline", "SOS Démocratie", "Mali", "Élections" ],
+  "last_updated": "2013-11-02T15:35:04.152064",
+  "sources": [{
+    "name": "Jokkolabs Bamako",
+    "web": "http://jokkolabs.ml"
+  }],
+  "views": [
+    {
+      "id": "graph",
+      "state": {
+        "group": "received_on",
+        "series": [
+          "topics_count"
+        ]
+      },
+      "type": "Graph"
+    }
+  ],
+  "resources": [
+    {
+      "path": "hotline_data.csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "received_on",
+            "type": "datetime"
+          },
+          {
+            "label": "Operateur téléphonique",
+            "id": "operator",
+            "type": "string"
+          },
+          {
+            "label": "ID Volontaire",
+            "id": "volunteer",
+            "type": "string"
+          },
+          {
+            "label": "Type d'appel",
+            "id": "event_type",
+            "type": "string"
+          },
+          {
+            "label": "Date du rappel",
+            "id": "response_date",
+            "type": "datetime"
+          },
+          {
+            "label": "Age",
+            "id": "age",
+            "type": "number"
+          },
+          {
+            "label": "Sexe",
+            "id": "sex",
+            "type": "string"
+          },
+          {
+            "label": "Durée rappel (mn)",
+            "id": "duration",
+            "type": "number"
+          },
+          {
+            "label": "Localité",
+            "id": "location",
+            "type": "string"
+          },
+          {
+            "label": "Code localité",
+            "id": "location_slug",
+            "type": "string"
+          },
+          {
+            "label": "Type localité",
+            "id": "location_type",
+            "type": "string"
+          },
+          {
+            "label": "Sujets abordés",
+            "id": "topics_list",
+            "type": "string"
+          },
+          {
+            "label": "Nb de sujets abordés",
+            "id": "topics_count",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
