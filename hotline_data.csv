@@ -2449,3 +2449,6 @@ received_on,operator,volunteer,event_type,response_date,age,sex,duration,locatio
 2013-12-02T16:22:12.597000,orange,sos,RING,2013-12-02T16:22:00,23,M,35,KHASSO-QUINZAMBOUGOU DIABOUGOU,11091200,village,14.45,-11.43,H1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,,
 2013-12-02T16:26:23.244000,orange,sos,RING,2013-12-02T16:26:00,24,F,3,TLABOUGOU WERE,41031958,village,13.7,-6.13,"A1, C2",2,true,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2013-12-02T17:51:52,orange,sos,CALL_ME,2013-12-02T17:51:00,34,F,3,KOUMANKOU,31045499,village,12.09,-6.14,D1,1,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-04T10:19:52.093000,malitel,sos,RING,2013-12-04T11:01:00,20,F,1,5EME QUARTIER OU KOKO,35091100,village,12.4,-5.47,E1,1,,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-04T10:17:38,malitel,sos,SMS_HOTLINE,2013-12-04T11:01:00,20,F,1,5EME QUARTIER OU KOKO,35091100,village,12.4,-5.47,E1,1,,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-04T11:47:46.427000,orange,sos,RING,2013-12-04T12:18:00,35,M,1,KOKO,25091361,village,12.75,-8.07,A1,1,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
