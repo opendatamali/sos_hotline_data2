@@ -2485,3 +2485,4 @@ received_on,operator,volunteer,event_type,response_date,age,sex,duration,locatio
 2013-12-06T10:01:01.297000,orange,sos,RING,2013-12-08T10:33:00,22,F,2,HIPPODROME,91092361,village,,,E9,1,,,,,,,,,,,,,,,,,,,,,true,,,,,,,,,,,,,,,,
 2013-12-07T17:36:33.811000,malitel,sos,RING,2013-12-08T10:41:00,63,M,2,FOABOUGOU,45036001,village,14.3,-6.01,E9,1,,,,,,,,,,,,,,,,,,,,,true,,,,,,,,,,,,,,,,
 2013-12-07T19:44:27.198000,malitel,sos,RING,2013-12-07T19:35:00,25,M,2,DARSALAM,45003,village,14.92,-5.94,E1,1,,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-05T20:48:47.902000,orange,sos,RING,2013-12-06T09:30:00,20,M,2,QUINZAMBOUGOU,91092721,village,,,"A2, E1",2,,true,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,
