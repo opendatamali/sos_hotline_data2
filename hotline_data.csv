@@ -2658,3 +2658,5 @@ received_on,operator,volunteer,event_type,response_date,age,sex,duration,locatio
 2013-12-14T12:51:27,orange,sos,SMS_HOTLINE,2013-12-14T17:51:00,55,F,3,LASSA,91094556,village,,,"A1, H3",2,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true
 2013-12-17T10:41:13.625000,orange,sos,RING,2013-12-17T10:41:00,21,M,1,DISTRICT DE BAMAKO,91000000,cercle,,,"A1, A2",2,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2013-12-17T10:50:39.696000,orange,sos,RING,2013-12-17T10:50:00,21,M,1,BAMAKO,90000000,region,,,B3,1,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-17T13:40:43.832000,orange,sos,RING,2013-12-18T12:37:00,19,F,1,BANCONI,91091001,village,,,A2,1,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-12-17T20:21:19,orange,sos,CALL_ME,2013-12-18T12:48:00,16,M,16,DOUMAZANA,91091334,village,,,F8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,true,,,,,
